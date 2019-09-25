@@ -1,0 +1,49 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    border: 20px solid #BC8F8F;
+    margin: 1.5% 20% 1.5% 20%;
+    width: 60%;
+    float: left;
+    background: url(https://i.pinimg.com/originals/c4/b3/95/c4b395c64d57435cd118431a60c1879a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+em {
+    color: #8F4040;
+}
+
+h2 {
+    color: #CD5C5C 
+}
+
+p {
+    
+}
+
+div {
+    background: white;
+    padding: 15px;
+}
+
+.date {
+    color: #8F4040;
+    font-weight: 700;
+    border: 0px;
+    letter-spacing: 0.5em;
+}
+
+.borderparagraph{
+    border-left: 5px solid #8F4040;
+    padding-left: 10px;
+}
+
+.bottomp {
+    border-bottom: 1px solid #8F4040 ;
+    padding: 5px;
+}
+
+ img {
+    width: 30%;
+    float: left; 
+    margin: 1.66%;
+}
